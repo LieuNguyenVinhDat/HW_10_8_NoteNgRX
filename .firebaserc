@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "simple-student-database-b112e"
+  },
+  "targets": {
+    "simple-student-database-b112e": {
+      "hosting": {
+        "angularfirebase01": [
+          "simple-student-database-b112e"
+        ]
+      }
+    }
+  }
+}
